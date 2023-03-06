@@ -1,0 +1,15 @@
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/bin/Debug/net7.0/net7.0/MyNativeNet.deps.json
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/bin/Debug/net7.0/net7.0/MyNativeNet.dll
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/bin/Debug/net7.0/net7.0/MyNativeNet.pdb
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/obj/Debug/net7.0/MyNativeNet.csproj.AssemblyReference.cache
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/obj/Debug/net7.0/MyNativeNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/obj/Debug/net7.0/MyNativeNet.AssemblyInfoInputs.cache
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/obj/Debug/net7.0/MyNativeNet.AssemblyInfo.cs
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/obj/Debug/net7.0/MyNativeNet.csproj.CoreCompileInputs.cache
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/obj/Debug/net7.0/MyNativeNet.dll
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/obj/Debug/net7.0/refint/MyNativeNet.dll
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/obj/Debug/net7.0/MyNativeNet.pdb
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/obj/Debug/net7.0/ref/MyNativeNet.dll
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/net7.0/MyNativeNet.deps.json
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/net7.0/MyNativeNet.dll
+/Users/mithang/Downloads/NetProjects/lmsoftware_electron_fullstack/MyNativeNet/MyNativeNet/net7.0/MyNativeNet.pdb
